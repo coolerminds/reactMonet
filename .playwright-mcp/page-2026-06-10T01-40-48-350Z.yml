@@ -1,0 +1,58 @@
+- generic [ref=e5]:
+  - heading "Send a drawing" [level=1] [ref=e7]
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e15]: m
+        - generic [ref=e17]: compose
+      - generic [ref=e18]:
+        - generic [ref=e19]: Draw for Nia
+        - generic [ref=e20]: Send Nia a drawing tied to their prompt. Quick, weird, and specific wins.
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: Sketch the opener
+        - generic [ref=e24]:
+          - generic [ref=e26] [cursor=pointer]: Undo
+          - generic [ref=e28] [cursor=pointer]: Clear
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]: Draw something fast and personal.
+          - generic [ref=e32]: I keep a list of all the strange butterflies I’ve seen on hikes.
+        - img [ref=e33]
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e38]: Brush
+          - generic [ref=e39]:
+            - button "Brush color black" [ref=e40] [cursor=pointer]
+            - button "Brush color white" [ref=e41] [cursor=pointer]
+            - button "Brush color yellow" [ref=e42] [cursor=pointer]
+            - button "Brush color orange" [ref=e43] [cursor=pointer]
+            - button "Brush color sunset orange" [ref=e44] [cursor=pointer]
+            - button "Brush color blue" [ref=e45] [cursor=pointer]
+            - button "Brush color green" [ref=e46] [cursor=pointer]
+        - generic [ref=e47]:
+          - generic [ref=e50]: Background
+          - generic [ref=e51]:
+            - button "Canvas background butter" [ref=e52] [cursor=pointer]
+            - button "Canvas background mint" [ref=e53] [cursor=pointer]
+            - button "Canvas background sky" [ref=e54] [cursor=pointer]
+            - button "Canvas background blush" [ref=e55] [cursor=pointer]
+            - button "Canvas background sand" [ref=e56] [cursor=pointer]
+            - button "Canvas background lavender" [ref=e57] [cursor=pointer]
+        - generic [ref=e58]:
+          - generic [ref=e61]: Size
+          - generic [ref=e62]:
+            - button "Brush size small" [ref=e63] [cursor=pointer]:
+              - generic [ref=e65]: S
+            - button "Brush size medium" [ref=e66] [cursor=pointer]:
+              - generic [ref=e68]: M
+            - button "Brush size large" [ref=e69] [cursor=pointer]:
+              - generic [ref=e71]: L
+            - button "Brush size xlarge" [ref=e72] [cursor=pointer]:
+              - generic [ref=e74]: XL
+    - generic [ref=e75]:
+      - generic [ref=e76]: Title your sketch
+      - textbox "butterfly with opinions" [ref=e77]
+      - generic [ref=e78]: 🦋 Draw me a butterfly
+      - generic [ref=e79]: I keep a list of all the strange butterflies I’ve seen on hikes.
+    - generic [ref=e80]: Add a drawing first

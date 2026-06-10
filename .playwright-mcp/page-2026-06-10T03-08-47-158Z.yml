@@ -1,0 +1,58 @@
+- generic [ref=e8]:
+  - generic [ref=e14]:
+    - generic:
+      - img
+    - generic [ref=e15]:
+      - generic "Open your account" [ref=e16] [cursor=pointer]
+      - generic [ref=e18]:
+        - generic "Open mingle" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: m
+        - generic "Open received mail" [ref=e21] [cursor=pointer]
+      - generic "Open direct messages" [ref=e23] [cursor=pointer]:
+        - generic [ref=e26]: "4"
+    - generic [ref=e27]:
+      - generic [ref=e29]: Draw to flirt
+      - generic [ref=e30]: discover
+      - generic [ref=e31]: Swipe culture gets replaced with tiny art projects. If someone catches your eye, send them a drawing instead of a lazy like.
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e34]: Showing
+        - generic [ref=e35]: Woman, Man · 22-30
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e43]:
+            - generic [ref=e45]: "AI remix: indie film still"
+            - generic [ref=e47]: 1/2
+          - generic [ref=e53]:
+            - generic [ref=e54]: Nia, 24
+            - generic [ref=e55]:
+              - generic [ref=e57]: she/her
+              - generic [ref=e60]: Los Angeles, CA
+            - generic [ref=e61]: ceramics teacher with a loud laugh
+            - generic [ref=e62]: I collect thrifted postcards, bad sci-fi paperbacks, and tiny reasons to stay out too late.
+            - img [ref=e64]
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - generic [ref=e68]: 🦋
+                - generic [ref=e69]:
+                  - generic [ref=e70]: Draw me a butterfly
+                  - generic [ref=e71]: I keep a list of all the strange butterflies I’ve seen on hikes.
+              - generic [ref=e72]:
+                - generic [ref=e73]: 🍓
+                - generic [ref=e74]:
+                  - generic [ref=e75]: My perfect reset day
+                  - generic [ref=e76]: Farmer’s market, frozen strawberries, and a movie nobody asked to watch.
+            - generic [ref=e77]:
+              - generic [ref=e78]: AI photo mode
+              - generic [ref=e79]: Remix shots first, originals later when the vibe feels safe.
+        - generic [ref=e80]:
+          - generic [ref=e81]: Tap to doodle a reply
+          - generic [ref=e88] [cursor=pointer]: Draw
+      - generic [ref=e89]:
+        - generic [ref=e90]: How Monet works
+        - generic [ref=e91]: Profiles ask for a doodle. Your sketch lands in their inbox. They can reply with a message, a drawing back, or reveal more of themselves later.
+  - tablist [ref=e93]:
+    - tab "Discover" [selected] [ref=e95] [cursor=pointer]
+    - tab "Inbox" [ref=e102] [cursor=pointer]
+    - tab "Grok Lab" [ref=e109] [cursor=pointer]
+    - tab "Me" [ref=e116] [cursor=pointer]

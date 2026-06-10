@@ -1,0 +1,48 @@
+- generic [ref=e255]:
+  - generic:
+    - generic:
+      - generic:
+        - link "Go back" [ref=e257] [cursor=pointer]:
+          - /url: /
+        - heading "Send a drawing" [level=1] [ref=e260]
+  - generic [ref=e264]:
+    - generic [ref=e265]:
+      - generic [ref=e266]:
+        - generic [ref=e268]: m
+        - generic [ref=e270]: compose
+      - generic [ref=e271]:
+        - generic [ref=e272]: Draw for Nia
+        - generic [ref=e273]: Send Nia a drawing tied to their prompt. Quick, weird, and specific wins.
+    - generic [ref=e274]:
+      - generic [ref=e275]:
+        - generic [ref=e276]: Sketch the opener
+        - generic [ref=e277]:
+          - generic [ref=e279] [cursor=pointer]: Undo
+          - generic [ref=e281] [cursor=pointer]: Clear
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - generic [ref=e284]: Draw something fast and personal.
+          - generic [ref=e285]: I keep a list of all the strange butterflies I’ve seen on hikes.
+        - img [ref=e286]
+      - generic [ref=e287]:
+        - generic [ref=e289]:
+          - generic [ref=e291]: 
+          - generic [ref=e292]: Brush
+        - generic [ref=e302]:
+          - generic [ref=e304]: 
+          - generic [ref=e305]: Background
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - generic [ref=e316]: 
+            - generic [ref=e317]: Size
+          - generic [ref=e318]:
+            - generic [ref=e321] [cursor=pointer]: S
+            - generic [ref=e324] [cursor=pointer]: M
+            - generic [ref=e327] [cursor=pointer]: L
+            - generic [ref=e330] [cursor=pointer]: XL
+    - generic [ref=e331]:
+      - generic [ref=e332]: Title your sketch
+      - textbox "butterfly with opinions" [ref=e333]
+      - generic [ref=e334]: 🦋 Draw me a butterfly
+      - generic [ref=e335]: I keep a list of all the strange butterflies I’ve seen on hikes.
+    - generic [ref=e336]: Add a drawing first

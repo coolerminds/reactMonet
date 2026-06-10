@@ -1,0 +1,46 @@
+- generic [ref=e357]:
+  - generic:
+    - generic:
+      - generic:
+        - link "Go back" [ref=e359] [cursor=pointer]:
+          - /url: /inbox
+        - heading "Conversation" [level=1] [ref=e362]
+  - generic [ref=e366]:
+    - generic [ref=e367]:
+      - generic [ref=e368]:
+        - generic "Open your account" [ref=e369] [cursor=pointer]:
+          - generic [ref=e371]: 
+        - generic [ref=e372]:
+          - generic "Open mingle" [ref=e373] [cursor=pointer]:
+            - generic [ref=e374]: m
+          - generic "Open received mail" [ref=e375] [cursor=pointer]:
+            - generic [ref=e377]: 
+        - generic "Open direct messages" [ref=e378] [cursor=pointer]:
+          - generic [ref=e380]: 
+          - generic [ref=e382]: "1"
+      - generic [ref=e383]:
+        - generic [ref=e384]: Talking with Nia
+        - generic [ref=e385]: Reply with words, another drawing, or let the AI suggest an opener that still sounds human.
+    - generic [ref=e386]:
+      - img [ref=e389]
+      - generic [ref=e390]:
+        - generic [ref=e391]: Nia
+        - generic [ref=e392]: playful, tactile, a little cinematic
+    - generic [ref=e393]:
+      - generic [ref=e394]:
+        - img [ref=e396]
+        - generic [ref=e401]: wrong kitty
+        - generic [ref=e402]: Cindy · Today, 11:27 AM
+      - generic [ref=e404]: this is so morbid
+      - generic [ref=e406]: you say morbid, I say emotionally committed
+    - generic [ref=e407]:
+      - generic [ref=e408]:
+        - generic [ref=e409]: Grok reply suggestions
+        - generic [ref=e411] [cursor=pointer]: Refresh
+      - generic [ref=e412]:
+        - generic [ref=e414] [cursor=pointer]: That means it landed exactly how I hoped.
+        - generic [ref=e416] [cursor=pointer]: Okay fair. Give me a less morbid prompt and I’ll redeem myself.
+        - generic [ref=e418] [cursor=pointer]: Your turn. Draw me the most dramatic butterfly possible.
+    - generic [ref=e419]:
+      - textbox "Write a message..." [ref=e420]
+      - generic [ref=e422] [cursor=pointer]: Send

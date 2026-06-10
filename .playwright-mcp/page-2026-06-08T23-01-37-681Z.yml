@@ -1,0 +1,44 @@
+- generic [ref=e8]:
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e18]: m
+        - generic [ref=e20]: discover
+      - generic [ref=e21]:
+        - generic [ref=e22]: Draw to flirt
+        - generic [ref=e23]: Swipe culture gets replaced with tiny art projects. If someone catches your eye, send them a drawing instead of a lazy like.
+    - generic [ref=e24]:
+      - generic [ref=e27]:
+        - generic [ref=e29]: "AI remix: indie film still"
+        - generic [ref=e31]: 1/2
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: Nia, 24
+          - generic [ref=e41]: open to drawings
+        - generic [ref=e42]:
+          - generic [ref=e44]: she/her
+          - generic [ref=e46]: Los Angeles, CA
+        - generic [ref=e47]: ceramics teacher with a loud laugh
+        - generic [ref=e48]: I collect thrifted postcards, bad sci-fi paperbacks, and tiny reasons to stay out too late.
+      - generic [ref=e49]:
+        - generic [ref=e50]: 🦋 prompt
+        - generic [ref=e51]: Draw me a butterfly
+        - generic [ref=e52]: I keep a list of all the strange butterflies I’ve seen on hikes.
+      - generic [ref=e53]:
+        - generic [ref=e54]: AI photo mode
+        - generic [ref=e55]: Nia is showing remix photos first. Originals can be revealed later when the match feels safe.
+      - generic [ref=e56]:
+        - generic [ref=e58] [cursor=pointer]: Skip
+        - generic [ref=e60] [cursor=pointer]: Draw for Nia
+    - generic [ref=e61]:
+      - generic [ref=e62]: How Monet works
+      - generic [ref=e63]: Profiles ask for a doodle. Your sketch lands in their inbox. They can reply with a message, a drawing back, or reveal more of themselves later.
+  - tablist [ref=e65]:
+    - tab "Discover" [selected] [ref=e67] [cursor=pointer]:
+      - generic [ref=e71]: Discover
+    - tab "Inbox" [ref=e73] [cursor=pointer]:
+      - generic [ref=e77]: Inbox
+    - tab "Grok Lab" [ref=e79] [cursor=pointer]:
+      - generic [ref=e83]: Grok Lab
+    - tab "Me" [ref=e85] [cursor=pointer]:
+      - generic [ref=e89]: Me

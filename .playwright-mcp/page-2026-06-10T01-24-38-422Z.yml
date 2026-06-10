@@ -1,0 +1,42 @@
+- generic [ref=e8]:
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e18]: m
+        - generic [ref=e20]: discover
+      - generic [ref=e21]:
+        - generic [ref=e22]: Draw to flirt
+        - generic [ref=e23]: Swipe culture gets replaced with tiny art projects. If someone catches your eye, send them a drawing instead of a lazy like.
+    - generic [ref=e24]:
+      - generic [ref=e25]: Showing
+      - generic [ref=e26]: Woman, Man · 22-30
+    - generic [ref=e27]:
+      - generic [ref=e32]:
+        - generic [ref=e34]: "AI remix: indie film still"
+        - generic [ref=e36]: 1/2
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: Nia, 24
+          - generic [ref=e44]: open to drawings
+        - generic [ref=e45]:
+          - generic [ref=e47]: Woman
+          - generic [ref=e49]: she/her
+          - generic [ref=e51]: Los Angeles, CA
+        - generic [ref=e52]: ceramics teacher with a loud laugh
+        - generic [ref=e53]: I collect thrifted postcards, bad sci-fi paperbacks, and tiny reasons to stay out too late.
+      - generic [ref=e54]:
+        - generic [ref=e55]: 🦋 prompt
+        - generic [ref=e56]: Draw me a butterfly
+        - generic [ref=e57]: I keep a list of all the strange butterflies I’ve seen on hikes.
+      - generic [ref=e58]:
+        - generic [ref=e59]: AI photo mode
+        - generic [ref=e60]: Nia is showing remix photos first. Originals can be revealed later when the match feels safe.
+      - generic [ref=e67] [cursor=pointer]: Draw
+    - generic [ref=e68]:
+      - generic [ref=e69]: How Monet works
+      - generic [ref=e70]: Profiles ask for a doodle. Your sketch lands in their inbox. They can reply with a message, a drawing back, or reveal more of themselves later.
+  - tablist [ref=e72]:
+    - tab "Discover" [selected] [ref=e74] [cursor=pointer]
+    - tab "Inbox" [ref=e81] [cursor=pointer]
+    - tab "Grok Lab" [ref=e88] [cursor=pointer]
+    - tab "Me" [ref=e95] [cursor=pointer]

@@ -1,0 +1,47 @@
+- generic [ref=e8]:
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic "Open your account" [ref=e17] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic "Open mingle" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]: m
+          - generic "Open received mail" [ref=e22] [cursor=pointer]
+        - generic "Open direct messages" [ref=e24] [cursor=pointer]:
+          - generic [ref=e27]: "4"
+      - generic [ref=e28]:
+        - generic [ref=e29]: Draw to flirt
+        - generic [ref=e30]: Swipe culture gets replaced with tiny art projects. If someone catches your eye, send them a drawing instead of a lazy like.
+    - generic [ref=e31]:
+      - generic [ref=e32]: Showing
+      - generic [ref=e33]: Woman, Man · 22-30
+    - generic [ref=e34]:
+      - generic [ref=e39]:
+        - generic [ref=e41]: "AI remix: indie film still"
+        - generic [ref=e43]: 1/2
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e49]: Nia, 24
+          - generic [ref=e51]: open to drawings
+        - generic [ref=e52]:
+          - generic [ref=e54]: Woman
+          - generic [ref=e56]: she/her
+          - generic [ref=e58]: Los Angeles, CA
+        - generic [ref=e59]: ceramics teacher with a loud laugh
+        - generic [ref=e60]: I collect thrifted postcards, bad sci-fi paperbacks, and tiny reasons to stay out too late.
+      - generic [ref=e61]:
+        - generic [ref=e62]: 🦋 prompt
+        - generic [ref=e63]: Draw me a butterfly
+        - generic [ref=e64]: I keep a list of all the strange butterflies I’ve seen on hikes.
+      - generic [ref=e65]:
+        - generic [ref=e66]: AI photo mode
+        - generic [ref=e67]: Nia is showing remix photos first. Originals can be revealed later when the match feels safe.
+      - generic [ref=e74] [cursor=pointer]: Draw
+    - generic [ref=e75]:
+      - generic [ref=e76]: How Monet works
+      - generic [ref=e77]: Profiles ask for a doodle. Your sketch lands in their inbox. They can reply with a message, a drawing back, or reveal more of themselves later.
+  - tablist [ref=e79]:
+    - tab "Discover" [selected] [ref=e81] [cursor=pointer]
+    - tab "Inbox" [ref=e88] [cursor=pointer]
+    - tab "Grok Lab" [ref=e95] [cursor=pointer]
+    - tab "Me" [ref=e102] [cursor=pointer]
